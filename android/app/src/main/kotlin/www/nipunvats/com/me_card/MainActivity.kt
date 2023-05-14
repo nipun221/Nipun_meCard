@@ -1,0 +1,6 @@
+package www.nipunvats.com.me_card
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
